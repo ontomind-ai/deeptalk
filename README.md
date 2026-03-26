@@ -82,10 +82,10 @@ AI 不只是回答问题，而是自动拆解任务、制定执行计划、逐�
 
 <!-- DEEPTALK_README_DOWNLOADS_BEGIN -->
 
-macOS 可直接下载**当前最新 Release** 的安装包（文件名含版本号；与当前仓库版本 **v0.3.0** 一致）：
+macOS 可直接下载**当前最新 Release** 的安装包（文件名含版本号；与当前仓库版本 **v0.3.1** 一致）：
 
-- **[Apple Silicon — DeepTalk-0.3.0-arm64.dmg](https://github.com/ontomind-ai/deeptalk/releases/latest/download/DeepTalk-0.3.0-arm64.dmg)**
-- **[Intel — DeepTalk-0.3.0-x64.dmg](https://github.com/ontomind-ai/deeptalk/releases/latest/download/DeepTalk-0.3.0-x64.dmg)**
+- **[Apple Silicon — DeepTalk-0.3.1-arm64.dmg](https://github.com/ontomind-ai/deeptalk/releases/latest/download/DeepTalk-0.3.1-arm64.dmg)**
+- **[Intel — DeepTalk-0.3.1-x64.dmg](https://github.com/ontomind-ai/deeptalk/releases/latest/download/DeepTalk-0.3.1-x64.dmg)**
 
 其它版本与附件见 **[Releases](https://github.com/ontomind-ai/deeptalk/releases)**。Windows（x64）即将支持。
 
